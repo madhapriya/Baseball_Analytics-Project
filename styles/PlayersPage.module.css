@@ -1,0 +1,42 @@
+.players-page {
+    padding: 20px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .player-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .player-card h2 {
+    margin-top: 0;
+  }
+  
+  .player-card h3 {
+    margin-bottom: 5px;
+  }
+  
+  .player-card video {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .player-cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  

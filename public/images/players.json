@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Pitcher",
+      "team": "Team A",
+      "stats": {
+        "games": 25,
+        "wins": 15,
+        "losses": 5,
+        "ERA": 2.75
+      },
+      "bio": "John Doe has been an exceptional pitcher for Team A, known for his powerful fastballs and strategic gameplay.",
+      "videoHighlights": "https://example.com/highlights/johndoe.mp4"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Catcher",
+      "team": "Team B",
+      "stats": {
+        "games": 30,
+        "battingAverage": 0.285,
+        "homeRuns": 10,
+        "RBIs": 50
+      },
+      "bio": "Jane Smith is a phenomenal catcher for Team B, praised for her defensive skills and consistent batting performance.",
+      "videoHighlights": "https://example.com/highlights/janesmith.mp4"
+    }
+  ]
+  
